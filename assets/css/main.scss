@@ -37,3 +37,11 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.page__content .talks-heading {
+  margin-bottom: 0;
+}
+
+.page__content .talks-heading + ul {
+  margin-top: 0.25em;
+}
