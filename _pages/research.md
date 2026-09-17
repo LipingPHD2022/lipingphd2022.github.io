@@ -9,19 +9,18 @@ published: true
 ## Industry Collaborations
 
 <article class="collaboration-card">
-  <a class="collaboration-card__logo" href="https://www.fairpricegroup.com.sg" aria-label="Visit the FairPrice Group website">
-    <img src="{{ base_path }}/images/fairprice-group.png" alt="FairPrice Group logo">
-  </a>
-  <div class="collaboration-card__body">
-    <h3><a href="https://www.fairpricegroup.com.sg">FairPrice Group</a></h3>
+  <div class="collaboration-card__summary">
+    <a class="collaboration-card__logo" href="https://www.fairpricegroup.com.sg" aria-label="Visit the FairPrice Group website">
+      <img src="{{ base_path }}/images/fairprice-group.png" alt="FairPrice Group logo">
+    </a>
     <p class="collaboration-card__lead">FairPrice Group is Singapore’s largest retailer, with a network of more than 600 touchpoints serving over half a million customers daily.</p>
+  </div>
+  <div class="collaboration-card__details">
     <p>Most warehouse automation and mixed-case palletization systems are designed from a warehouse-centered perspective, focusing on material movement, packing, and consolidation within the distribution center. Our project takes a broader end-to-end perspective by incorporating downstream store replenishment into warehouse decisions. Working with FairPrice and two robotics companies, one specializing in autonomous mobile robots (AMRs) and the other in robotic arms, we study warehouse-wide task assignment and sequencing together with carton packing into roll cages.</p>
-    <p>Store layouts and shelf locations are used to guide which cartons should be packed together and how they should be arranged. We demonstrate that store information can be incorporated into mixed-case palletization at the distribution center to improve downstream replenishment without substantially sacrificing consolidation efficiency. In this way, the project helps FairPrice coordinate warehouse automation and store replenishment from the distribution center to the shelf.</p>
     <section class="related-research" aria-labelledby="fairprice-related-research">
-      <h4 id="fairprice-related-research">Related research</h4>
+      <h3 id="fairprice-related-research">Related research</h3>
       <article class="research-entry">
         <p class="research-entry__citation"><strong>Store-Friendly Mixed-Case Palletization: Coordinating Warehouse Packing and Store Replenishment</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7471458">[SSRN]</a>. Zihao Li, Liping Yang*, Lei Zheng, Guodong Lyu, Chaik Ming Koh, Chung-Piaw Teo (* corresponding author). Under review at the 2027 M&amp;SOM Practice-Based Research Competition.</p>
-        <p class="research-entry__presentations-label"><strong>Selected presentations</strong></p>
         <ul class="research-entry__presentations">
           <li><a href="https://iora.nus.edu.sg/iora-industry-day-2026/">IORA Industry Day 2026</a>, Singapore, 1 October 2026. Joint presentation with Enoch Zhang (Senior Director of Supply Chain, FairPrice Group): “Designing a Store-Friendly Warehouse: Optimising Supply Chain Operations from Warehouse to Shelf,” on how we built FairPrice’s store-friendly warehouse together with two robotics companies.</li>
           <li><strong>Keynote by Prof. Teo:</strong> “X+AI: How to Design Operations Around AI? Store-Friendly Retail Operations.” The Second Annual Conference on AI Economy &amp; Management, Peking University HSBC Business School, Shenzhen, China, June 24, 2026.</li>
@@ -35,18 +34,17 @@ published: true
 </article>
 
 <article class="collaboration-card">
-  <a class="collaboration-card__logo" href="https://hk.pickupp.io/en/" aria-label="Visit the Pickupp Hong Kong website">
-    <img src="{{ base_path }}/images/pickupp.png" alt="Pickupp logo">
-  </a>
-  <div class="collaboration-card__body">
-    <h3><a href="https://hk.pickupp.io/en/">Pickupp</a></h3>
+  <div class="collaboration-card__summary">
+    <a class="collaboration-card__logo" href="https://hk.pickupp.io/en/" aria-label="Visit the Pickupp Hong Kong website">
+      <img src="{{ base_path }}/images/pickupp.png" alt="Pickupp logo">
+    </a>
     <p class="collaboration-card__lead">Pickupp is a technology-enabled logistics platform offering same-day and next-day delivery services in Hong Kong.</p>
-    <p>For its next-day service, delivery tasks and incentive prices are posted in the app one day in advance. Crowd couriers, including commuters who can incorporate a suitable delivery into their daily journey, may accept these tasks, while Pickupp’s in-house delivery team completes those that remain unaccepted. We study the resulting two-stage decision problem under endogenous uncertainty, focusing on how advance incentive decisions affect crowd acceptance and how parcel assignments are coordinated with in-house fulfillment.</p>
+  </div>
+  <div class="collaboration-card__details">
     <section class="related-research" aria-labelledby="pickupp-related-research">
-      <h4 id="pickupp-related-research">Related research</h4>
+      <h3 id="pickupp-related-research">Related research</h3>
       <article class="research-entry">
         <p class="research-entry__citation"><strong>Coordinating Courier Incentives and Parcel Assignment in Crowdsourced Last-Mile Delivery</strong>. Liping Yang, Piao Hu, Guodong Lyu, Chung-Piaw Teo. Work in progress.</p>
-        <p class="research-entry__presentations-label"><strong>Selected presentation</strong></p>
         <ul class="research-entry__presentations">
           <li><a href="https://iora.nus.edu.sg/afx2026/">Analytics for X 2026</a>, Singapore, 24–25 September 2026 (poster)</li>
         </ul>
@@ -55,22 +53,20 @@ published: true
   </div>
 </article>
 
-<article class="collaboration-card collaboration-card--compact">
-  <a class="collaboration-card__logo" href="https://ohsome.co.id" aria-label="Visit the OH!SOME website">
-    <img src="{{ base_path }}/images/ohsome.svg" alt="OH!SOME logo">
-  </a>
-  <div class="collaboration-card__body">
-    <h3><a href="https://ohsome.co.id">OH!SOME</a></h3>
+<article class="collaboration-card">
+  <div class="collaboration-card__summary">
+    <a class="collaboration-card__logo" href="https://ohsome.co.id" aria-label="Visit the OH!SOME website">
+      <img src="{{ base_path }}/images/ohsome.svg" alt="OH!SOME logo">
+    </a>
     <p>OH!SOME is a fast-growing lifestyle retailer with a major operating presence in Indonesia. Our collaboration focuses on consumer behavior and <em>demand forecasting</em>, <em>dynamic assortment optimization</em> with particular attention to new-product introduction and product phase-out, and <em>inventory optimization</em> under cross-border logistics uncertainty, including inventory allocation between warehouses and stores.</p>
   </div>
 </article>
 
-<article class="collaboration-card collaboration-card--compact">
-  <a class="collaboration-card__logo" href="https://www.se.com/sg/en/" aria-label="Visit the Schneider Electric Singapore website">
-    <img src="{{ base_path }}/images/schneider-electric.svg" alt="Schneider Electric logo">
-  </a>
-  <div class="collaboration-card__body">
-    <h3><a href="https://www.se.com/sg/en/">Schneider Electric Singapore</a></h3>
+<article class="collaboration-card">
+  <div class="collaboration-card__summary">
+    <a class="collaboration-card__logo" href="https://www.se.com/sg/en/" aria-label="Visit the Schneider Electric Singapore website">
+      <img src="{{ base_path }}/images/schneider-electric.svg" alt="Schneider Electric logo">
+    </a>
     <p>Schneider Electric Singapore is part of Schneider Electric, a global energy technology company with operations in more than 100 countries. Our collaboration focuses on <em>agentic AI for global supply chains</em>, particularly how AI agents can support planning, coordination, and decision making across complex and geographically distributed supply networks.</p>
   </div>
 </article>
@@ -82,7 +78,6 @@ published: true
 <div class="research-collection">
   <article class="research-entry">
     <p class="research-entry__citation"><strong>Assortment Optimization under Multi-Choice Ranking Preferences: Hardness and Tight Approximations</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5942375">[SSRN]</a>. Liping Yang, Guodong Lyu, Yugang Yu, Libo Sun, Chung-Piaw Teo. Under review at <em>Operations Research</em>. <strong>Industry partner:</strong> <a href="https://www.babyonlinedress.com/collections-all">Suzhou Beibao Information Technology Co., Ltd.</a></p>
-    <p class="research-entry__presentations-label"><strong>Selected presentations</strong></p>
     <ul class="research-entry__presentations">
       <li>POMS-China International Conference 2026, Xi’an, China (session chair)</li>
       <li>INFORMS MSOM Conference 2026, Boston, USA</li>
