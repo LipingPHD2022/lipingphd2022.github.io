@@ -27,3 +27,21 @@ published: true
 5. **Improved Collaborative Filtering for Cross-Store Demand Forecasting** [[DOI](https://doi.org/10.1016/j.cie.2024.110067)]. Ming Liang, Liping Yang, Kai Li, Hao Zhai. *Computers & Industrial Engineering*, 190, 110067, 2024.
 
 6. **Overview of Artificial Intelligence in Platform-Based Supply Chains: Technological Challenges and Algorithmic Empowerment**. Libo Sun, Liping Yang, Biyan Sun, Yugang Yu. Accepted at *Systems Engineering - Theory & Practice*, 2026.
+
+## Ongoing Industry Collaborations and Research Focus
+
+<div class="industry-collaboration">
+  <a class="industry-collaboration__logo" href="https://ohsome.co.id" aria-label="Visit the OH!SOME website">
+    <img src="{{ base_path }}/images/ohsome.svg" alt="OH!SOME logo">
+  </a>
+  <p><a href="https://ohsome.co.id"><strong>OH!SOME</strong></a> is a fast-growing lifestyle retailer with a major operating presence in Indonesia. Our collaboration focuses on consumer behavior and demand forecasting, dynamic assortment optimization with particular attention to new-product introduction and product phase-out, and inventory optimization under cross-border logistics uncertainty, including inventory allocation between warehouses and stores.</p>
+</div>
+
+<div class="industry-collaboration">
+  <a class="industry-collaboration__logo" href="https://www.se.com/sg/en/" aria-label="Visit the Schneider Electric Singapore website">
+    <img src="{{ base_path }}/images/schneider-electric.svg" alt="Schneider Electric logo">
+  </a>
+  <p><a href="https://www.se.com/sg/en/"><strong>Schneider Electric Singapore</strong></a> is part of Schneider Electric, a global energy technology company with operations in more than 100 countries. Our collaboration focuses on agentic AI for global supply chains, particularly how AI agents can support planning, coordination, and decision making across complex and geographically distributed supply networks.</p>
+</div>
+
+If you are interested in any of these topics or potential research collaborations, please feel free to [contact me](mailto:l.yang@u.nus.edu). I would be very happy to connect and explore opportunities to work together.
