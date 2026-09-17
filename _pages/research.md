@@ -14,7 +14,7 @@ published: true
     - [IORA Industry Day 2026](https://iora.nus.edu.sg/iora-industry-day-2026/), Singapore, 1 October 2026. Joint presentation with Enoch Zhang (Senior Director of Supply Chain, FairPrice Group): “Designing a Store-Friendly Warehouse: Optimising Supply Chain Operations from Warehouse to Shelf,” on how we built FairPrice's store-friendly warehouse together with two robotics companies.
     - **Featured in a keynote:** Chung-Piaw Teo, “X+AI: How to Design Operations Around AI? Store-Friendly Retail Operations.” The Second Annual Conference on AI Economy & Management, Peking University HSBC Business School, Shenzhen, China, June 24, 2026.
 
-2. **Assortment Optimization under Multi-Choice Ranking Preferences: Hardness and Tight Approximations** [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5942375)]. Liping Yang, Guodong Lyu, Yugang Yu, Libo Sun, Chung-Piaw Teo. Under review at *Operations Research*. **Industry partner:** Suzhou Beibao Information Technology Co., Ltd.
+2. **Assortment Optimization under Multi-Choice Ranking Preferences: Hardness and Tight Approximations** [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5942375)]. Liping Yang, Guodong Lyu, Yugang Yu, Libo Sun, Chung-Piaw Teo. Under review at *Operations Research*. **Industry partner:** [Suzhou Beibao Information Technology Co., Ltd.](https://www.babyonlinedress.com/collections-all).
 
     **Talks:**
     {: .talks-heading}
