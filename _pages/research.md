@@ -12,8 +12,8 @@ published: true
 
 <article class="collaboration-card">
   <div class="collaboration-card__summary">
-    <a class="collaboration-card__logo" href="https://www.fairpricegroup.com.sg" aria-label="Visit the FairPrice Group website">
-      <img src="{{ base_path }}/images/fairprice-group.png" alt="FairPrice Group logo">
+    <a class="collaboration-card__logo collaboration-card__logo--fairprice" href="https://www.fairpricegroup.com.sg" aria-label="Visit the FairPrice Group website">
+      <img src="{{ base_path }}/images/fairprice.jpg" alt="FairPrice logo">
     </a>
     <p class="collaboration-card__lead">FairPrice Group is Singapore’s largest retailer, with a network of more than 600 touchpoints serving over half a million customers daily.</p>
   </div>
