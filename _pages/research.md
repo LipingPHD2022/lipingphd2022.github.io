@@ -6,6 +6,8 @@ author_profile: true
 published: true
 ---
 
+<p class="collaboration-invitation">If you are interested in any of these topics or potential research collaborations, please feel free to <a href="mailto:l.yang@u.nus.edu">contact me</a>. I would be very happy to connect and explore opportunities to work together.</p>
+
 ## Industry Collaborations
 
 <article class="collaboration-card">
@@ -70,8 +72,6 @@ published: true
     <p>Schneider Electric Singapore is part of Schneider Electric, a global energy technology company with operations in more than 100 countries. Our collaboration focuses on <em>agentic AI for global supply chains</em>, particularly how AI agents can support planning, coordination, and decision making across complex and geographically distributed supply networks.</p>
   </div>
 </article>
-
-<p class="collaboration-invitation">If you are interested in any of these topics or potential research collaborations, please feel free to <a href="mailto:l.yang@u.nus.edu">contact me</a>. I would be very happy to connect and explore opportunities to work together.</p>
 
 ## Algorithm Design Using Real-World Data
 
