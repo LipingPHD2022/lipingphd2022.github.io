@@ -14,8 +14,3 @@ My research focuses on practice-based operations management and agentic AI. I wo
 - **2022–Present:** PhD Candidate in Management Science and Engineering, School of Management, University of Science and Technology of China
 - **Aug 2023–Jul 2024 and Sep 2025–Present:** Joint PhD Training Student, Institute of Operations Research and Analytics, National University of Singapore
 - **Dec 2024–Mar 2025:** Research Assistant, School of Business and Management, Hong Kong University of Science and Technology
-
-## Contact
-
-- Email: [lipingphd@mail.ustc.edu.cn](mailto:lipingphd@mail.ustc.edu.cn), [l.yang@u.nus.edu](mailto:l.yang@u.nus.edu)
-- [Google Scholar](https://scholar.google.com/citations?user=vDDBNJ4AAAAJ&hl=en)
