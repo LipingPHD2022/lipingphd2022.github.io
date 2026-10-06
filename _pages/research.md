@@ -24,12 +24,12 @@ published: true
       <article class="research-entry">
         <p class="research-entry__citation"><strong>Store-Friendly Mixed-Case Palletization: Coordinating Warehouse Packing and Store Replenishment</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7471458">[SSRN]</a>. Zihao Li, Liping Yang*, Lei Zheng, Guodong Lyu, Chaik Ming Koh, Chung-Piaw Teo (* corresponding author). Under review at the 2027 M&amp;SOM Practice-Based Research Competition.</p>
         <ul class="research-entry__presentations">
-          <li><a href="https://iora.nus.edu.sg/iora-industry-day-2026/">IORA Industry Day 2026</a>, Singapore, 1 October 2026. Joint presentation with Enoch Zhang (Senior Director of Supply Chain, FairPrice Group): “Designing a Store-Friendly Warehouse: Optimising Supply Chain Operations from Warehouse to Shelf,” on how we built FairPrice’s store-friendly warehouse together with two robotics companies.</li>
+          <li><a href="https://iora.nus.edu.sg/iora-industry-day-2026/">IORA Industry Day 2026</a>, Singapore, 1 October 2026. Presented jointly with Jeraldin Leo (FairPrice Group): “Designing a Store-Friendly Warehouse: Optimising Supply Chain Operations from Warehouse to Shelf,” on how we built FairPrice’s store-friendly warehouse together with two robotics companies.</li>
           <li><strong>Keynote by Prof. Teo:</strong> “X+AI: How to Design Operations Around AI? Store-Friendly Retail Operations.” The Second Annual Conference on AI Economy &amp; Management, Peking University HSBC Business School, Shenzhen, China, June 24, 2026.</li>
         </ul>
       </article>
       <article class="research-entry">
-        <p class="research-entry__citation"><strong>Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations</strong> <a href="https://arxiv.org/abs/2609.03860">[arXiv]</a>. Lei Zheng, Liping Yang*, Zihao Li, Guodong Lyu, Chaik Ming Koh, Chung-Piaw Teo (* corresponding author). arXiv preprint arXiv:2609.03860, 2026. Under review at the MLxOR Workshop, NeurIPS 2026.</p>
+        <p class="research-entry__citation"><strong>Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations</strong> <a href="https://arxiv.org/abs/2609.03860">[arXiv]</a>. Lei Zheng, Liping Yang*, Zihao Li, Guodong Lyu, Chaik Ming Koh, Chung-Piaw Teo (* corresponding author). arXiv preprint arXiv:2609.03860, 2026. Accepted at the MLxOR Workshop, NeurIPS 2026.</p>
       </article>
     </section>
   </div>
